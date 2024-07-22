@@ -1,3 +1,3 @@
 # foodmanagementccli
-    A Simple University Restaurant management program just as a starting project
+    A Simple Restaurant management program for university as a starting project
     
